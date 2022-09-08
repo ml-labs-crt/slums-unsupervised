@@ -17,5 +17,22 @@ This repo contains the code to reproduce the results obtained on the paper "Mapp
 
 The Sentinel-2 data used in this study is available at: [https://frontierdevelopmentlab.github.io/informal-settlements/](https://frontierdevelopmentlab.github.io/informal-settlements/). The other data used in the paper (Topological Analysis of Crowdsourced Digital Maps) can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSfao44uX3l8S0qSsaGEb7ufpiY2F2wfhDs8NmrkzlokWqV-ZQ/viewform).
 
+## Citation
 
-
+```
+@inproceedings{mattosMappingSlumsDeep2022,
+  title = {Mapping {{Slums}} with {{Deep Learning Feature Extraction}}},
+  booktitle = {Proceedings of the {{Second Workshop}} on {{Complex Data Challenges}} in {{Earth Observation}} ({{CDCEO}} 2022)},
+  author = {Mattos, Agatha and Bertolotto, Michela and McArdle, Gavin},
+  editor = {Gruca, Aleksandra and Robinson, Caleb and Yokoya, Naoto and Zhou, Jun and Ghamisi, Pedram},
+  year = {2022},
+  month = jul,
+  series = {{{CEUR Workshop Proceedings}}},
+  volume = {3207},
+  pages = {27--32},
+  publisher = {{CEUR}},
+  address = {{Vienna, Austria}},
+  issn = {1613-0073},
+  langid = {english}
+}
+```
